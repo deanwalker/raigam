@@ -30,7 +30,7 @@ public class App
     	      
     	        String imei = getRandomImei();
     	        
-    	        String data  = MCrypt.bytesToHex(new MCrypt().encrypt(email+ "~" + imei + "~" + "Kalana" + "~" + "Yureni" + "~" + "Koombiyo"));
+    	        String data  = MCrypt.bytesToHex(new MCrypt().encrypt(email+ "~" + imei + "~" + "Raveen" + "~" + "Nayanathara" + "~" + "Koombiyo"));
     		
     			HttpHeaders headers = new HttpHeaders();
     			headers.setContentType(MediaType.APPLICATION_FORM_URLENCODED);
