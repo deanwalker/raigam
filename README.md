@@ -12,7 +12,7 @@ Issues in the Mobile APP which caused hacking
 3. Code Obfuscation needs to be done
 
 
-Mcrypt java class is taken from app code base
+Mcrypt java class is taken from app code base.
 Run App.java to vote.
 
 Hope Raigm will come up with a better voting app.
