@@ -15,6 +15,6 @@ Issues in the Mobile APP which caused hacking
 Mcrypt java class is taken from app code base.
 Run App.java to vote.
 
-Hope Raigm will come up with a better voting app.
+Hope Raigm will come up with a better voting app next time.
 
 
